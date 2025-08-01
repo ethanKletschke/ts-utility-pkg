@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Ethan Kletschke",
   "license": "MIT",
-  "description": "TypeScript utility classes",
+  "description": "A utility package with classes and type aliases for TypeScript.",
   "devDependencies": {
     "@types/chai": "^5.2.2",
     "@types/mocha": "^10.0.10",
